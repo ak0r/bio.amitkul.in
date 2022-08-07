@@ -14,7 +14,9 @@ body {
     margin: 0 auto;
     padding: 0;
     width: 100%;
-    max-width: 100%;
+    max-width: 100%;  
+    font-family: 'Urbanist', sans-serif;
+    color: #363636;
 }
 
 img {
@@ -99,7 +101,16 @@ a:hover {
     white-space: nowrap;
     line-height: 2;
     font-weight: 600;
+    font-size: 30px;
 }
+
+.social-links .bx {
+    padding: 10px;
+}
+
+.social-links a:hover {
+    color: #e17869;
+  }
 
 .clear {
     clear: both;
