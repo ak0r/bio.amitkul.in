@@ -5,3 +5,6 @@ Version: 1.1
   - Changed fonts
   - Added Box Icons
   - Updated Links
+
+Version: 1.2
+  - Added Home Page and About Links
